@@ -1,4 +1,4 @@
-# Dragon-Real-Estate-Price-Prediction
+# Birla-Real-Estate-Price-Prediction
 
 # Technology Used:- 
 Python,Sklearn,Pandas,Matplotlib,Seaborn,RandomForest,Flask,Heroku
